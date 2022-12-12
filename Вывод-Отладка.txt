@@ -1,0 +1,14 @@
+﻿"3_lab_AISD.exe" (Win32). Загружено "C:\Users\user\source\repos\3_lab_AISD\Release\3_lab_AISD.exe". Символы загружены.
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140.dll". 
+Поток 0x1c10 завершился с кодом 0 (0x0).
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"3_lab_AISD.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0xbb8 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x3610 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x2f10 завершился с кодом -1073741510 (0xc000013a).
+Программа "[14804] 3_lab_AISD.exe" завершилась с кодом -1073741510 (0xc000013a).
